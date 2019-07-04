@@ -9,7 +9,7 @@ PMBOK 全文 800 多页，众多知识点散落，不易掌握。我将其中关
 - [概述](./Overview.md)
 - [项目管理计划与项目文件](./PM-Plan-And-File.md)
 - [IPO清单](./IPO-List.md)
-- IPO的工具与技术
+- [IPO的工具与技术](./Tool-And-Tech.md)
 - [管理过程与知识领域](./Progress-And-Knowledge.md)
 - 重要文件的流向
 - 附录
