@@ -15,4 +15,4 @@ PMBOK 全文 800 多页，众多知识点散落，不易掌握。我将其中关
 
 如果您觉得有帮助话，欢迎 **打赏** 瓶可乐。
 
-![Alipay](./images/alipay.jpg) ![WechatPay](./images/wcpay.png)
+![pay](./images/paycode.png)
