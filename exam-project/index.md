@@ -1,7 +1,9 @@
 > 注意：
+> - 各文件名，也就是该文件对应的英文名称。
 > - 省略了部分文件，包括：所有管理子计划（合并到项目管理计划）；辅助计划，如：变更管理计划、配置管理计划、开放方法、项目生命周期、管理审查；采购相关所有文件；工作绩效相关所有文件。
 > - 管理阶段的编号为：A启动B规划C执行D监控E收尾；知识领域的编号为：01整合02范围03进度04成本05质量06资源07沟通08风险10相关方，而09采购直接忽略。
-> - 各文件名，也就是该文件对应的英文名称。
+> - 变更请求可能在很多阶段触发，因此单独分类。
+
 
 按PMP标准流程整理，依次会出现的项目文件包括：
 - [项目日志](./99project-diary.md)
@@ -59,3 +61,7 @@
 - 收尾E
   - [01整合-最终报告 final report](./E01final-report.md)
   - [01整合-最终产品、服务或成果移交 final product，service or result transition](./E01final-product-service-or-result-transition.md)
+- 变更F
+  - [变更请求 change requests](./F00change-requests.md)
+  - [批准的变更请求 approved change requests](./F00approved-change-requests.md)
+  - [变更日志 change log](./F00change-log.md)
