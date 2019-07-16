@@ -8,7 +8,7 @@
 按PMP标准流程整理，依次会出现的项目文件包括：
 - [项目日志](./99project-diary.md)
 - 前期准备
-  - [00商业论证business case](./00business-case.md)
+  - [00商业论证 business case](./00business-case.md)
   - [00效益管理计划 benefits management plan](./00benefits-plan.md)
 - 启动A
   - [01整合-项目章程 project charter](./A01project-charter.md)
