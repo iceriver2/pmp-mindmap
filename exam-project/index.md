@@ -4,11 +4,12 @@
 > - 管理阶段的编号为：A启动B规划C执行D监控E收尾；知识领域的编号为：01整合02范围03进度04成本05质量06资源07沟通08风险10相关方，而09采购直接忽略。
 > - 变更请求可能在很多阶段触发，因此单独分类。
 
+> 注意：在所有文档中，会出现一些备注性文字，以“iceman注”开头的备注表示我个人的想法，不以此开头的备注表示一些引用或解释。
 
 按PMP标准流程整理，依次会出现的项目文件包括：
 - [项目日志](./99project-diary.md)
 - 前期准备
-  - [00商业论证business case](./00business-case.md)
+  - [00商业论证 business case](./00business-case.md)
   - [00效益管理计划 benefits management plan](./00benefits-plan.md)
 - 启动A
   - [01整合-项目章程 project charter](./A01project-charter.md)
